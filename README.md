@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpsxlr8&show_icons=true&layout=compact&theme=highcontrast&langs_count=8" alt="Most Used Languages">
 </a>
 <a href="https://github.com/jpsxlr8/jpsxlr8">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=jpsxlr8&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jai's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jpsxlr8&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jai's GitHub Stats" />
 </a>
 
 ## Streak stats
