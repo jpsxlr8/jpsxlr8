@@ -4,6 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?lines=Born+too+late+to+explore+the+Earth%2C;born+too+early+to+explore+the+Galaxy%2C;+born+just+in+time+to+explore+Data.">
   </a>
 </h1>
+<p align="center"><img src="https://profile-counter.glitch.me/jpsxlr8/count.svg"/></p>
 
 <!--
 **jpsxlr8/jpsxlr8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
