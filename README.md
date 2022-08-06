@@ -77,5 +77,5 @@ Here are some ideas to get you started:
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
 </p>
-
+![Snake animation](https://github.com/jpsxlr8/jpsxlr8/blob/output/github-contribution-grid-snake.svg)
    
