@@ -1,9 +1,5 @@
 ### Hi there I'm Jay👋
-<h1 align="center">
-  <a href="">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Born+too+late+to+explore+the+Earth%2C;born+too+early+to+explore+the+Galaxy%2C;+born+just+in+time+to+explore+Data.">
-  </a>
-</h1>
+
 <p align="center"><img src="https://profile-counter.glitch.me/jpsxlr8/count.svg"/></p>
 
 <!--
