@@ -1,4 +1,4 @@
-### Hi there I'm Jay👋
+### Hi there, I'm Jay👋
 
 <p align="center"><img src="https://profile-counter.glitch.me/jpsxlr8/count.svg"/></p>
 
