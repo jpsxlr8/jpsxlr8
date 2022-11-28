@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-## Streak stats
+### Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
