@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-### Streak stats
+<h2 align="left"> 🔭 Streak Stats </h2>
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <!--   <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p> -->
 </p>
 
-### :microscope: Technology & Tools
+### :microscope: Tools & Technology
 
 ![skillicons](https://skillicons.dev/icons?i=html,css,js,ts,java,py,c,cpp,mysql,sqlite,react,flask,django,spring,selenium,git,maven,github)
 
