@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### GitHub Analytics
+<h2 align="left">🐦 Github Stats </h2>
 
 <p align="center">
 <a href="https://github.com/jpsxlr8">
