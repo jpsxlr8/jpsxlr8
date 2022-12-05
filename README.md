@@ -2,7 +2,7 @@
 
 <!-- <p align="left"><img src="https://profile-counter.glitch.me/jpsxlr8/count.svg"/></p> -->
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=jpsxlr8&style=for-the-badge">
+    <p align="centre"><img src="https://komarev.com/ghpvc/?username=jpsxlr8&style=for-the-badge"></p>
 </a>
 
 [Ÿ HŸPE]: https://yhype.me
