@@ -1,6 +1,10 @@
 ### Hi there, I'm Jay👋
 
 <!-- <p align="left"><img src="https://profile-counter.glitch.me/jpsxlr8/count.svg"/></p> -->
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=jpsxlr8&style=for-the-badge">
+</a>
+
 [Ÿ HŸPE]: https://yhype.me
 [GitHub Profile Views Counter]: https://github.com/jpsxlr8/github-profile-views-counter
 
