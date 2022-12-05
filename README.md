@@ -1,6 +1,10 @@
 ### Hi there, I'm Jay👋
 
-<p align="left"><img src="https://profile-counter.glitch.me/jpsxlr8/count.svg"/></p>
+<!-- <p align="left"><img src="https://profile-counter.glitch.me/jpsxlr8/count.svg"/></p> -->
+[Ÿ HŸPE]: https://yhype.me
+[GitHub Profile Views Counter]: https://github.com/jpsxlr8/github-profile-views-counter
+
+![](https://hit.yhype.me/github/profile?user_id=1849174)
 
 <!--
 **jpsxlr8/jpsxlr8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
