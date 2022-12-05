@@ -1,6 +1,6 @@
 ### Hi there, I'm Jay👋
 
-<p align="center"><img src="https://profile-counter.glitch.me/jpsxlr8/count.svg"/></p>
+<!-- <p align="center"><img src="https://profile-counter.glitch.me/jpsxlr8/count.svg"/></p> -->
 
 <!--
 **jpsxlr8/jpsxlr8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
