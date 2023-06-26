@@ -87,7 +87,4 @@ Here are some ideas to get you started:
 [badge_python]: https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff
 [badge_qt]: https://img.shields.io/badge/-Qt-41CD52?style=flat&logo=qt&logoColor=ffffff
 
-### My Coding Profiles
 
-[<img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" />](https://www.codechef.com/users/jpsxlr8)
-[<img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />](https://auth.geeksforgeeks.org/user/jpsxlr8/practice/)
