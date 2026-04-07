@@ -1,4 +1,6 @@
 ### Hi there, I'm Jai👋
+<img src="https://i.imgur.com/Eu3NtrU.png">
+
 
 <!-- <p align="left"><img src="https://profile-counter.glitch.me/jpsxlr8/count.svg"/></p> -->
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
