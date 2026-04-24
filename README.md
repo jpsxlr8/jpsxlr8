@@ -1,5 +1,5 @@
 ### Hi there, I'm Jai👋
-<!-- <img src="https://imgur.com/gallery/bliss-is-pathetic-SCWP1WP"> -->
+<img src="https://i.imgur.com/3O6jMdh.png">
 <img src="https://i.imgur.com/Eu3NtrU.png">
 
 
