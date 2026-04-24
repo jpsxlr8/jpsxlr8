@@ -1,5 +1,5 @@
 ### Hi there, I'm Jai👋
-<img src="https://i.imgur.com/4p3rrXV.png">
+<!-- <img src="https://i.imgur.com/4p3rrXV.png"> -->
 <img src="https://i.imgur.com/Eu3NtrU.png">
 
 
