@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://github.com/jpsxlr8">
-<img src="https://github-readme-stats.vercel.app/api?username=jpsxlr8&layout=compact&hide=html&theme=jolly" alt="jpsxlr8"/> &nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=jpsxlr8&layout=compact&hide=html&theme=jolly" alt="jpsxlr8"/> &nbsp
 </a>
 </p>
 
